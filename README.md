@@ -1,1 +1,1 @@
-i guess this is kojo's first git project
+_my first experience with git_
