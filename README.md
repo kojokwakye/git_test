@@ -1,1 +1,1 @@
-_my first experience with [git](https://git-scm.com/) and [github](https://github.com)_
+my first experience with [git](https://git-scm.com/) and [github](https://github.com)
